@@ -130,6 +130,34 @@
                 </a>
             </center>
         </div>
+        <div class="col-12 col-md-3">
+            <center>
+                <a href="galeri/index.html">
+                    <div class="card extend_card">
+                        <img src="<?php echo base_url() . "/img/icon_maintenance.png" ?>"
+                            class="card-img-top asyncImage" alt="...">
+                        <div class="card-body" style="text-align:center;">
+                            <a data-toggle="collapse" href="galeri/index.html" role="button" aria-expanded="false"
+                                aria-controls="collapseExample" style="text-decoration:none;">
+                                <h5 class="card-title" style="color:#00826c;">GALERI KEGIATAN</h5>
+                                <p class="text-muted"><small>Apa itu Galeri Kegiatan?<br><i>Klik untuk
+                                            selengkapnya.</i></small></p>
+
+                            </a>
+                            <!-- <div class="collapse" id="collapseEos">
+                                <div class="card card-body" style="text-align:left;">
+                                    EOS (EEPIS On Sky) merupakan komunitas penyiar radio yang mewadahi minat bakat
+                                    Mahasiswa
+                                    Telekomunikasi dalam bidang broadcasting radio<br><br>
+                                    <a href="spotify:show:1RudXRv37FmiRKx38A7Zq2" class="btn btn-info">Kunjungi Youtube
+                                        EOS</a>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            </center>
+        </div>
     </div>
 </div>
 

@@ -702,6 +702,7 @@ pre code {
 .col-12 {
   flex: 0 0 100%;
   max-width: 100%;
+  position: relative;
 }
 
 .order-first {
@@ -1075,6 +1076,7 @@ pre code {
   .col-md-3 {
     flex: 0 0 25%;
     max-width: 25%;
+    position: relative;
   }
 
   .col-md-4 {
